@@ -6,4 +6,4 @@
 
 ## BASE SKILS : DevTools (Chrome, Firefox) ; Jira ; TestRail / Qase / Zephyr ;  Postman ; Git / GitBash / Git GUI ; SQL 
 
-Follow Me
+## Follow Me alexxxmalaxov@gmail.com
